@@ -38,16 +38,16 @@ currently:  Learning System Design & Cloud Architecture ☁️
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rishisuthar" target="_blank">
+  <a href="https://www.linkedin.com/in/rishi-suthar-18a28b1b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/rishisuthar" target="_blank">
+  <a href="https://x.com/Dynamo66787143" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://rishisuthar.dev" target="_blank">
+  <a href="https://dynamicdesignsca.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://instagram.com/rishisuthar" target="_blank">
+  <a href="https://www.instagram.com/rishii.311/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

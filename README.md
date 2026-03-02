@@ -21,7 +21,7 @@
 
 ```yaml
 name:       Rishi Suthar
-location:   India 🇮🇳
+location:   Toronto, Canada 🇨🇦
 role:       Full-Stack Developer
 focus:      Building scalable web apps & contributing to open source
 currently:  Learning System Design & Cloud Architecture ☁️
@@ -35,7 +35,6 @@ fun_fact:   I debug with console.log and I'm not ashamed of it 😄
 - 👯 Open to collaborate on **open-source & innovative projects**
 - 💬 Ask me about **React, Node.js, Python, or anything web**
 - 📫 Reach me at **[rishibhunji@gmail.com](mailto:rishibhunji@gmail.com)**
-- ⚡ Fun fact: I can spend hours naming variables
 
 <br clear="right" />
 
@@ -94,20 +93,12 @@ fun_fact:   I debug with console.log and I'm not ashamed of it 😄
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishiSuthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RishiSuthar&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiSuthar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiSuthar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishiSuthar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
@@ -132,22 +123,14 @@ fun_fact:   I debug with console.log and I'm not ashamed of it 😄
 
 ---
 
-## 💡 A Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/RishiSuthar/sigreewebsite">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishiSuthar&repo=project-one&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishiSuthar&repo=sigreewebsite&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/RishiSuthar/safitrack">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishiSuthar&repo=project-two&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishiSuthar&repo=safitrack&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 

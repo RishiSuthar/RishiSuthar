@@ -25,18 +25,13 @@ location:   Toronto, Canada 🇨🇦
 role:       Full-Stack Developer
 focus:      Building scalable web apps & contributing to open source
 currently:  Learning System Design & Cloud Architecture ☁️
-fun_fact:   I debug with console.log and I'm not ashamed of it 😄
 ```
-
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🔭 Currently working on a **full-stack SaaS project**
 - 🌱 Leveling up in **TypeScript, Docker & Kubernetes**
 - 👯 Open to collaborate on **open-source & innovative projects**
 - 💬 Ask me about **React, Node.js, Python, or anything web**
 - 📫 Reach me at **[rishibhunji@gmail.com](mailto:rishibhunji@gmail.com)**
-
-<br clear="right" />
 
 ---
 
@@ -54,9 +49,6 @@ fun_fact:   I debug with console.log and I'm not ashamed of it 😄
   </a>
   <a href="https://instagram.com/rishisuthar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://dev.to/rishisuthar" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
 
@@ -123,14 +115,14 @@ fun_fact:   I debug with console.log and I'm not ashamed of it 😄
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/RishiSuthar/sigreewebsite">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishiSuthar&repo=sigreewebsite&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://opengraph.githubassets.com/1/RishiSuthar/sigreewebsite" style="border-radius:10px" />
   </a>
   <a href="https://github.com/RishiSuthar/safitrack">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RishiSuthar&repo=safitrack&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://opengraph.githubassets.com/1/RishiSuthar/safitrack" style="border-radius:10px" />
   </a>
 </p>
 
